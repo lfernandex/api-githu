@@ -1,0 +1,15 @@
+.button-section{
+    padding: 15px 41px;
+}
+
+button{
+    height: 40px;
+    width: 101px;
+
+    background-color: #1890FF;
+    color: #fff;
+    font-size: 16px;
+
+    border: 1px solid #1890FF;
+    border-radius: 4px;
+}

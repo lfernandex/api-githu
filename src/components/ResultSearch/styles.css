@@ -1,0 +1,43 @@
+.card-section{
+    padding: 20px;
+}
+
+.details-card{
+    background-color: #F5F5F5;
+    height: 334px;
+    display: flex;
+    padding: 40px;
+    max-width: 1251px;
+    margin: 0 auto;
+}
+
+.profile-icon img{
+    height: 247px;
+    width: 247px;
+}
+
+.details{
+    background-color: #FFF;
+    padding: 20px;
+    border: 1px solid #D9D9D9;
+    border-radius: 6px;
+    width: 902px;
+    height: 247px;
+    margin: 0 auto;
+}
+
+.space-between{
+    margin: 5px;
+}
+
+.results p{
+        border: 1px solid #D9D9D9;
+        border-radius: 6px;
+        height: 40px;
+        padding: 10px;
+}
+
+.text-description{
+    font-size: 16px;
+    font-weight: 700px;
+}
